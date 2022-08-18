@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "142426158895",
+    "project_id": "glub-hidratado",
+    "storage_bucket": "glub-hidratado.appspot.com"
+  },
+  "client": [ 
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142426158895:android:57b33396251d66391053da",
+        "android_client_info": {
+          "package_name": "com.example.glub_hidratado"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142426158895-g1hg2btrs68n9aq1rl4a5rpb327ishcr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjxR4LyfpaX52PRFd8q2ZTTUqtiPhC6Aw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142426158895-g1hg2btrs68n9aq1rl4a5rpb327ishcr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

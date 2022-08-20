@@ -62,7 +62,7 @@ class DadosCadastrados extends StatelessWidget {
                                   margin: const EdgeInsets.only(top: 0),
                                   child: const Center(
                                     child: Text(
-                                      "x ml de água ",
+                                      "xml de água ",
                                       style: TextStyle(
                                           color: Colors.black,
                                           fontSize: 20,

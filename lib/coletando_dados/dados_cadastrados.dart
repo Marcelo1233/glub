@@ -1,9 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:glub_hidratado/paginas/home_page.dart';
 
-
 class DadosCadastrados extends StatelessWidget {
-    DadosCadastrados({Key? key}) : super(key: key);
+  DadosCadastrados({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
@@ -62,7 +61,7 @@ class DadosCadastrados extends StatelessWidget {
                                   margin: const EdgeInsets.only(top: 0),
                                   child: const Center(
                                     child: Text(
-                                      "xml de água ",
+                                      "xml de água",
                                       style: TextStyle(
                                           color: Colors.black,
                                           fontSize: 20,
@@ -97,11 +96,12 @@ class DadosCadastrados extends StatelessWidget {
         ),
         floatingActionButton: FloatingActionButton(
           onPressed: () {
-           Navigator.push(
-                      context,
-                       MaterialPageRoute(
-                         builder: (context) => HomePage(),
-                    ),);
+            Navigator.push(
+              context,
+              MaterialPageRoute(
+                builder: (context) => HomePage(),
+              ),
+            );
           },
           tooltip: 'Próxima tela',
           child: const Icon(Icons.arrow_right_alt),

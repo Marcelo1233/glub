@@ -1,16 +1,6 @@
-# glub_hidratado
+<h1 align="center">Dev Responder</h1>
+<h1 align="center"> 
+    <a href="https://www.flutter.dev">🔗 Flutter</a> 
+</h1> 
+<p align="center">🚀 Com o intuito de aprender mais e pôr os conhecimentos em prática. O jogo contém um espaço para estudar e outro espaço contendo um quiz, para testar os conhecimentos adquiridos.</p>
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
